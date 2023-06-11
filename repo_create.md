@@ -45,4 +45,4 @@ $ git clone https://github.com/libgit2/libgit2 mylibgit
 ```
 Эта команда делает всё то же самое, что и предыдущая, только результирующий каталог будет назван mylibgit.
 
-[prev](config.md) | [next](repo_change.md)
+[![Prev](/assets/prev3.png)](config.md "Предыдущий раздел")[![Next](/assets/next3.png)](repo_change.md "Следующий раздел")

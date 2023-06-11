@@ -41,4 +41,4 @@ usage: git add [<options>] [--] <pathspec>...
     --chmod (+|-)x        override the executable bit of the listed files
  ```
 
- [prev](./install.md) | [next](./config.md)
+ [![Prev](/assets/prev3.png)](install.md "Предыдущий раздел")[![Next](/assets/next3.png)](config.md "Следующий раздел")

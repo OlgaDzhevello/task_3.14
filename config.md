@@ -58,4 +58,4 @@ color.diff=auto
 $ git config user.name
 John Doe
 ```
-[prev](help.md) | [next](repo_create.md)
+[![Prev](/assets/prev3.png)](help.md "Предыдущий раздел")[![Next](/assets/next3.png)](repo_create.md "Следующий раздел")

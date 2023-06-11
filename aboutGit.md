@@ -20,4 +20,4 @@
 
 Мы познакомимся с вами с ***GIT*** в интерфейсе командной строки.
 
-[prev](./readme.md) | [next](./install.md)
+[![Prev](/assets/prev3.png)](readme.md "К содержанию")[![Next](/assets/next3.png)](install.md "Следующий раздел")

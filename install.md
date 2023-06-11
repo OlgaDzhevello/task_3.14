@@ -32,4 +32,4 @@
 
 Чтобы воспользоваться дополнительными возможностями, посмотрите инструкцию по установке для нескольких различных разновидностей Unix на [сайте GIT](https://git-scm.com/download/linux).
 
-[prev](./aboutGit.md) | [next](./help.md)
+[![Prev](/assets/prev3.png)](./aboutGit.md "Предыдущий раздел")[![Next](/assets/next3.png)](./help.md "Следующий раздел")

@@ -31,7 +31,8 @@ License: [MIT](license.md)
 
 ---
 
-| [next](aboutGit.md)
+
+[![Next](/assets/next3.png)](aboutGit.md "Следующий раздел")
 
 **Ссылки и материалы** 
 
